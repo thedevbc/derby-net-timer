@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/thedevbc/derby-net-timer/issues"
   },
-  "homepage": "https://github.com/thedevbc/derby-net-timer#readme",
-  "devDependencies": {
-    "electron": "^13.1.9"
-  }
+  "homepage": "https://github.com/thedevbc/derby-net-timer#readme"
 }
