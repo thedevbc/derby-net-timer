@@ -1,0 +1,23 @@
+{
+  "name": "derby-net-timer",
+  "version": "1.0.0",
+  "description": "Derby Net Timer",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thedevbc/derby-net-timer.git"
+  },
+  "author": "Jeff Piazza & Ben Mulford",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thedevbc/derby-net-timer/issues"
+  },
+  "homepage": "https://github.com/thedevbc/derby-net-timer#readme",
+  "devDependencies": {
+    "electron": "13.1.9"
+  }
+}
