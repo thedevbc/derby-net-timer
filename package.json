@@ -4,8 +4,7 @@
   "description": "Derby Net Timer",
   "main": "main.js",
   "scripts": {
-    "start": "electron .",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
@@ -18,6 +17,6 @@
   },
   "homepage": "https://github.com/thedevbc/derby-net-timer#readme",
   "devDependencies": {
-    "electron": "13.1.9"
+    "electron": "^13.1.9"
   }
 }
